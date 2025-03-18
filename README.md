@@ -78,8 +78,7 @@ void main()
 
 ## OUTPUT:
 
-
-![Screenshot 2025-03-18 221009](https://github.com/user-attachments/assets/90f152d9-99ff-4325-9be7-d01b63822fd1)
+![Screenshot 2025-03-18 221009](https://github.com/user-attachments/assets/6e6fc94d-f7c4-47aa-92a9-97ab92d2c859)
 
 ## RESULT:
 The program is executed successfully
