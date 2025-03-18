@@ -32,7 +32,6 @@ Implementation using C or pyhton code
 ## PROGRAM:
 
 ```
-PROGRAM 01;
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>
