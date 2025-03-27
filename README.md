@@ -293,6 +293,7 @@ To decrypt the message, each block is multiplied by the inverse of the matrix us
 The cipher can, be adapted to an alphabet with any number of letters. All arithmetic just needs to be done modulo the number of letters instead of modulo 26.
 
 
+
 ## PROGRAM:
 ```
 #include <stdio.h>
