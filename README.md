@@ -545,7 +545,7 @@ d[j] = c[i];
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/2fd0eecb-4ce0-412b-a583-3363f08a404b)
+![Screenshot 2025-04-08 142751](https://github.com/user-attachments/assets/c8206498-1f36-4a12-81bb-a721f24685c6)
 
 
 ## RESULT:
